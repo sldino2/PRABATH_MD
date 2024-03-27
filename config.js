@@ -22,7 +22,7 @@ module.exports = {
   alivepic: process.env.ALIVE_IMG || 'https://images.app.goo.gl/2P7ekqmDvw44kbYc6',
   alivemsj: process.env.ALIVE_MSJ || '*POWERD BY PRABATH-MD* 🎊',
   ownername:process.env.OWNER_NAME || 'Dino_md',
-  sessionName: process.env.SESSION_ID || 'PUT-HERE',
+  sessionName: process.env.SESSION_ID || 'orkiQDbK#d9KK4BQa6F9ZH-2tn_5PEABYlzUycqNKCKEb9GnNkEw',
   author: process.env.PACK_INFO.split(";")[0] || 'author', 
   auto_read_status : process.env.AUTO_READ_STATUS || 'true',
   packname: process.env.PACK_INFO.split(";")[1] || 'Dino',
